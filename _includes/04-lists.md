@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Datascience :panda_face:
+   - Machine learning 🐘
+       - Deep learining 🦒
+            - GAN 🦁
+            - CNN 🐅
